@@ -15,4 +15,8 @@ origin, forming a narrow jet that "squirts out" along the y=x axis. The
 reflecting shock waves continually interact with this jet of dense gas over
 time as the calculation proceeds.
 
-![FLEXI simulation of the Liska-Wendroff Implosion Problem](https://gahansen.github.io/images/Flexi_lw.avi)
+[Link to movie on Facebook](https://www.facebook.com/glen.hansen.311056/videos/273315767275684/?t=0)
+
+![FLEXI simulation of the Liska-Wendroff Implosion Problem](https://gahansen.github.io/images/Flexi_lw.png)
+
+
