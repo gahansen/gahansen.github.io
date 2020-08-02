@@ -1,10 +1,7 @@
 title: Glen Hansen
 author: Glen Hansen
 email: hansen@strallc.com
-description:  VP of Development
-
-github_username:  gahansen
-linkedin_username: hansenglen
+description:  VP of Development at STRA LLC
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,16 +11,16 @@ minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
-#  social_links:
-#    github:  gahansen
+  social_links:
+    github:  gahansen
 #    twitter: jekyllrb
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: glen.hansen.311056
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
-#    linkedin: hansenglen
+    linkedin: hansenglen
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
