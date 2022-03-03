@@ -8,7 +8,7 @@
 layout: home
 ---
 
-| ![Glen A. Hansen, Ph.D.](images/glen_small.jpg) | **Glen A. Hansen, Ph.D.**<br>[Vice President of Development STRA LLC](https://www.strallc.com)<br>[Adjunct Engineering Instructor Casper College](https://www.caspercollege.edu/programs/engineering)<br><br>***Professional website:***: [linkedin.com/in/hansenglen](https://www.linkedin.com/in/hansenglen)<br>***Personal Website:*** [gahansen.github.io](https://gahansen.github.io)<br>***Work Email:*** [hansen@strallc.com](mailto:hansen@strallc.com)<br>***Phone***: (505) 252-9514 |
+| ![Glen A. Hansen, Ph.D.](images/g1cbm.png) | **Glen A. Hansen, Ph.D.**<br>[Vice President of Development STRA LLC](https://www.strallc.com)<br>[Adjunct Engineering Instructor Casper College](https://www.caspercollege.edu/programs/engineering)<br><br>***Professional website:***: [linkedin.com/in/hansenglen](https://www.linkedin.com/in/hansenglen)<br>***Personal Website:*** [gahansen.github.io](https://gahansen.github.io)<br>***Work Email:*** [hansen@strallc.com](mailto:hansen@strallc.com)<br>***Phone***: (505) 252-9514 |
 
 [comment]: <> (NOTE: the above single line for the figure and the side text is necessary for the formatting to work.  Any newline breaks this.)
 
